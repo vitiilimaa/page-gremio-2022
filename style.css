@@ -38,6 +38,7 @@ footer {
 }
 
 .nav-btn {
+  border: 0;
   background-color: transparent;
   color: #fff;
   font-size: 18px;
